@@ -1,0 +1,13 @@
+[data-background].jarallax {
+    background-repeat: no-repeat;
+    border-radius: 80px;
+    max-width: 70%;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 30% 6%;
+    max-height: 20%;
+    padding: 11%;
+}
+
+
+
